@@ -19,6 +19,6 @@ or you can [![Run on Repl.it](https://repl.it/badge/github/GoByeBye/DiscoBape)](
 ## Support/Contributing
 For support you can either join my support discord which you can find here
 
-<a href="https://discord.gg/TJhJRvCU"><img src="https://discord.com/api/guilds/743205482507927568/widget.png?style=banner2" alt="" /></a>
+<a href="https://discord.gg/TJhJRvCU"><img src="https://discord.com/api/guilds/834563276641009707/widget.json" alt="" /></a>
 
 Or you can open an issue/pull requests on here
